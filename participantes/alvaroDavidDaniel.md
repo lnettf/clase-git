@@ -1,4 +1,5 @@
 # Álvaro, David y Daniel
+# clase github
 
 - Lenguaje favorito: javaScript
 - Una cosa que quiero aprender hoy: usar Github sin volverse loco
